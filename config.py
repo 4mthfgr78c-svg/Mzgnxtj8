@@ -1,0 +1,4 @@
+import os
+
+BOT_TOKEN = "8926951190:AAHcFYpl64pZUYaPKroPy3iuRQbWe60monI"  # замените
+ADMIN_IDS = [1896036065]
